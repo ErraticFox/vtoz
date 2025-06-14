@@ -17,6 +17,7 @@
     - [ ] validate TFA form (no letters, only numbers, etc.)
     - [ ] resend code
 - [ ] captcha
+    - [ ] error handling
     - [ ] watch for captcha timeout/refresh
     - [ ] captcha manual refresh
 
